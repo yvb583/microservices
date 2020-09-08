@@ -1,0 +1,5 @@
+REPOSITORY            TAG                 IMAGE ID            CREATED              SIZE
+jur/ubuntu-tmp-file   latest              757bad0601d3        About a minute ago   127MB
+ubuntu                16.04               4b22027ede29        2 weeks ago          127MB
+nginx                 latest              4bb46517cac3        3 weeks ago          133MB
+hello-world           latest              bf756fb1ae65        8 months ago         13.3kB
